@@ -8,11 +8,11 @@
 - 🤝 Open to collaboration on web development and automation projects
 
 ## 🧰 Tech Stack
-- Languages: C, JavaScript
+- Languages:JavaScript
 - Frontend: HTML, CSS, React
 - Backend: Node.js, Express
 - Database: MongoDB
-- Tools: Git, GitHub, Docker, VS Code
+- Tools: Git, GitHub
 
 ## 📌 Current Focus
 - Building production-style projects
@@ -21,7 +21,6 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/srinu-maddineni
-- LinkedIn: Add your LinkedIn link here
 
 ---
 ⭐ Always learning and building.
