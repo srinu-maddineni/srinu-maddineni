@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @srinu-maddineni
-- 👀 I’m interested in .. coding
-- 🌱 I’m currently learning ...c programing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋 I'm Srinu Maddineni
 
-<!---
-srinu-maddineni/srinu-maddineni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 💻 Passionate about software development and problem solving
+- 🌱 Currently learning Full Stack Web Development, System Design, and Automation
+- 🛠️ Exploring technologies like React, Node.js, Docker, Redis, and Playwright
+- 📚 Interested in building real-world projects and scalable applications
+- 🤝 Open to collaboration on web development and automation projects
+
+## 🧰 Tech Stack
+- Languages: C, JavaScript
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Tools: Git, GitHub, Docker, VS Code
+
+## 📌 Current Focus
+- Building production-style projects
+- Improving backend and system design skills
+- Learning deployment and cloud fundamentals
+
+## 📫 Connect With Me
+- GitHub: https://github.com/srinu-maddineni
+- LinkedIn: Add your LinkedIn link here
+
+---
+⭐ Always learning and building.
