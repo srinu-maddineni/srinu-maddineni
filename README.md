@@ -8,7 +8,7 @@
 - 🤝 Open to collaboration on web development and automation projects
 
 ## 🧰 Tech Stack
-- Languages:JavaScript
+- Languages:JavaScript,Python
 - Frontend: HTML, CSS, React
 - Backend: Node.js, Express
 - Database: MongoDB
