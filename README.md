@@ -21,6 +21,9 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/srinu-maddineni
+- Email: maddinenis76@gmail
+- Portfolio: https://srinu-maddineni.github.io/Portfolio/
+- LinkedIn: https://www.linkedin.com/in/srinu-maddineni-aa6835290/ 
 
 ---
 ⭐ Always learning and building.
